@@ -154,7 +154,7 @@ Below 50
 
 F
 
-Attendance Calculation
+## Attendance Calculation
 
 Attendance percentage is calculated using:
 
@@ -163,7 +163,7 @@ Attendance Percentage =
 
 A warning is displayed when attendance falls below 75%.
 
-Concepts Demonstrated
+## Concepts Demonstrated
 
 The project uses the following Java concepts:
 
@@ -185,10 +185,10 @@ Exception Handling: File operations use exception handling to manage input/outpu
 
 File Handling: Student records are stored in a text file for local persistence.
 
-Author
+## Author
 
 Developed as part of the Programming in Java course project.
 
-License
+## License
 
 This project is intended for academic and educational use.
