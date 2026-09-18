@@ -85,17 +85,17 @@ cd SmartStudentAcademicSystem
 
 2. Compile the source files
 
-On Windows PowerShell:
+ On Windows PowerShell:
 
-javac -d out src\*.java
+ javac -d out src\*.java
 
-On Linux/macOS:
+ On Linux/macOS:
 
-javac -d out src/*.java
+ javac -d out src/*.java
 
 3. Run the application
 
-java -cp out Main
+ java -cp out Main
 
 ## Menu Options
 
